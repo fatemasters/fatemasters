@@ -1,0 +1,45 @@
+			<div id="meta-information" class="t60">
+				<p>
+
+					<!-- Look the author details up from the site config. -->
+					{% assign author = site.data.authors[page.author] %}
+					<!-- Output author details if some exist. -->
+					{% if author %}
+
+					{{ site.data.language.published_by }}
+					
+					<span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name"><a href="{{ author.url }}" target="_blank"> {{ author.name }}</a></span></span>
+					{% endif %}
+
+					{{ site.data.language.on_date }}
+
+					<time datetime="{{ page.date | date: "%Y-%m-%d" }}" itemprop="datePublished">
+						{% assign d = page.date | date: "%-d"  %}
+						{{ page.date | date: "%B" }} 
+						{% case d %}
+						  {% when '1' or '21' or '31' %}{{ d }}st
+						  {% when '2' or '22' %}{{ d }}nd
+						  {% when '3' or '23' %}{{ d }}rd
+						  {% else %}{{ d }}th
+						  {% endcase %}, 
+						{{ page.date | date: "%Y" }}.
+						</time>
+
+
+					{% if page.categories %}
+						{{ site.data.language.archived_in }} {{ site.data.language.category }} {{ page.categories | join: ' · ' | upcase }}.
+					{% endif %}
+
+
+					{% if page.tags %}
+
+						{{ site.data.language.tagged_with }}
+						
+						<span class="pr20">
+							{% for tag in page.tags %}{% if forloop.first == true %}<span class="tag">{{tag}}</span>{% elsif forloop.last == true %} {{ site.data.language.and }} <span class="tag">{{tag}}</span>.{% else %} ,<span class="tag">{{tag}}</span>{% endif %}{% endfor %}
+						</span>
+
+					{% endif %}
+			</p>
+			</div><!--  /#meta-information -->
+

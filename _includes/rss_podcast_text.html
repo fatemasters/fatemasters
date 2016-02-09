@@ -1,0 +1,45 @@
+<li> <strong>Participantes:</strong>
+<ul>
+  {% for host in post.hosts %}
+  <li>{{ host | markdownify | remove: '<p>' | remove: '</p>' }}
+{% endfor %}
+</ul>
+
+  <li> <strong>Duração:</strong> {{post.podcast_time}}
+
+{% if post.events %}
+<li> <strong>Cronologia do Podcast:</strong>
+<ul>
+  {% for event in post.events %}
+  <li><strong>{{event.time}} - </strong> {{ event.text | markdownify | remove: '<p>' | remove: '</p>' }}
+{% endfor %}
+</ul>
+{% endif%}
+
+                  {% if post.related_links %}
+<li><strong><i>Links</i> Relacionados:</strong></li>
+<ul>
+  {% for link in post.related_links %}
+                  <li>
+                  <a href="{{ link.link }}">{{ link.text  | markdownify | remove: '<p>' | remove: '</p>' }}</a>
+                  </li>
+            {% endfor %}
+</ul>
+                  {% endif %}
+  
+                  {% if site.data.podcast %}
+                  <li><a href="{{ site.data.podcast.gpluspage }}">Link para a comunidade do Google+ do {{site.data.podcast.name}}</a>
+                  {% endif %}
+
+{% comment %}
+{% for link in site.data.podcast.feeds %}
+                  <li>
+                  <a href="http://subscribeonandroid.com/{{ link.link | replace:'http://',''  }}">Subscribe on Android ({{link.format}})</a>
+                  </li>
+
+{% endfor %}
+{% endcomment %}
+<li>
+                  <a href="{{ site.url }}{{ post.url }}">Comente esse <em>post</em> no site do {{site.data.podcast.name}}!</a>
+{% if site.data.podcast.itunes.link %}<li><a href="{{ site.data.podcast.itunes.link }}">Assine no iTunes</a></li>{% endif %}
+</li>

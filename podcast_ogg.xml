@@ -1,0 +1,81 @@
+---
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:atom="http://www.w3.org/2005/Atom"
+xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+    <channel>
+		<title>{{site.title}}</title>
+		<description>{{site.description}}</description>
+{% for category in site.data.podcast.itunes.categories | limit: 5 %}
+<itunes:category text="{{ category }}"/>
+{% endfor %}
+<itunes:explicit>{{ site.data.podcast.itunes.explicit }}</itunes:explicit>
+<itunes:keywords>{{ site.data.podcast.itunes.keywords }}</itunes:keywords>
+<itunes:summary>{{ site.data.podcast.itunes.slogan | site.description }}</itunes:summary>
+<itunes:subtitle>{{ site.data.podcast.itunes.subtitle | site.description }}</itunes:subtitle>
+<itunes:image href="{{site.url}}{{ site.data.podcast.itunes.podcast_image }}"/>
+<itunes:author>{{ site.data.podcast.itunes.author | site.name }}</itunes:author>
+<copyright>{{ site.data.podcast.copyright }}</copyright>
+<language>{{ site.data.podcast.language }}</language>
+<itunes:owner>
+        <itunes:name>{{ site.data.podcast.itunes.name | site.data.podcast.name | site.name }}</itunes:name>
+        <itunes:email>{{ site.data.podcast.itunes.email }}</itunes:email>
+</itunes:owner>
+<image>
+        <title>{{ site.data.podcast.itunes.name | site.name }}</title>
+        <link>{{ site.data.podcast.itunes.podcast_image }}</link>
+        <url>{{ site.data.podcast.itunes.podcast_image }}</url>
+</image>
+<link>{{ site.url }}</link>
+		<atom:link href="{{ site.url }}/podcast.xml" rel="self" type="application/rss+xml" />
+		{% for post in site.categories.podcast %}
+			<item>
+<author>{{ site.data.podcast.itunes.author | site.name }}</author>
+				<title>{{ post.title | xml_escape }}</title>                                
+				<description>{{ post.content | xml_escape }}
+                  {{ shownotes | xml_escape %}}
+                  {% for audio in post.audios %}
+                  {% for audio_info in audio %}
+                                        {% if audio_info[0] == "OGG" %}
+                                        {% capture link %}
+                                        <a href="{{ audio_info[1] }}">
+                                          <li>Link para o programa em {{audio_info[0]}}
+                                        </a>
+                                        {% include rss_podcast_text.html %}
+                                        {% endcapture %}
+                                        {{ link | xml_escape}}
+                                        {% endif %}
+                                        {%endfor%}
+                                        {%endfor%}
+                                        </description>
+				<pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
+				<link>{{ site.url }}{{ post.url }}</link>
+				<guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
+<itunes:duration>{{post.itunes.duration}}</itunes:duration>
+<!-- <itunes:keywords></itunes:keywords> -->
+<itunes:summary>{{post.excerpt}}</itunes:summary>
+<itunes:subtitle>{{ post.teaser | site.data.podcast.itunes.subtitle | site.description }}</itunes:subtitle>
+<itunes:author>{{ site.data.podcast.itunes.author | site.name }}</itunes:author>
+{% if post.itunes.explicit %}
+<itunes:explicit>{{ post.itunes.explicit }}</itunes:explicit>
+{% endif %}
+{% if post.itunes.block %}
+<itunes:block>{{post.itunes.block}}</itunes:block>
+{% endif %}
+{% for audio in post.audios %}
+{% for audio_info in audio %}
+{% if audio_info[0] == "OGG" %}
+<enclosure url="{{ audio_info[1] }}" type="audio/ogg"/>
+{% endif %}
+{%endfor%}
+{%endfor%}
+			</item>
+		{% endfor %}
+	</channel>
+</rss>

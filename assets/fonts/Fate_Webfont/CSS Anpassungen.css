@@ -1,0 +1,23 @@
+/* Fate Webfront einbinden */
+@font-face {
+  font-family: 'fate';
+  src: url('fate_core_font-webfont.eot');
+  src: url('fate_core_font-webfont.eot?#iefix') format('embedded-opentype'),
+       url('fate_core_font-webfont.woff') format('woff'),
+       url('fate_core_font-webfont.ttf') format('truetype'),
+       url('fate_core_font-webfont.svg#fate_core_glyphsregular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+span.fate_font {
+  font-family: "fate";
+  font-weight: normal;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+}
+
+span.fate_font.big {
+  font-size: 2em;
+  line-height: 1.2em;
+}

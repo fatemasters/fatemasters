@@ -1,0 +1,21 @@
+- title: Página Inicial
+  url: "/"
+  side: left
+
+- title: Assine
+  side: right
+  dropdown:
+    - title: MP3
+      url: http://subscribeonandroid.com/feeds.feedburner.com/FateMastersRPG
+    - title: OGG
+      url: http://subscribeonandroid.com/feeds.feedburner.com/FateMastersRPG-OGG
+    - title: iTunes
+      url: https://itunes.apple.com/br/podcast/fate-masters/id1061476992
+  
+- title: "Pesquisa"
+  url: "/search/"
+  side: right
+
+- title: "Contato"
+  url: "/contact/"
+  side: right

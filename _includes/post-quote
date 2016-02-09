@@ -1,0 +1,9 @@
+{% comment %}
+*  
+*  
+{% endcomment %}
+<div class="quote">
+      {% if post.image.title %}<a href="{{ site.url }}{{ post.url }}" title="{{ post.title escape_once }}"><img src="{{ site.url }}/images/{{ post.image.title }}" class="b30" alt="{{ page.title escape_once }}"></a>{% endif %}
+
+      <a href="{{ site.url }}{{ post.url }}">{{ post.content }}</a>
+</div>

@@ -1,0 +1,22 @@
+name: "Fate Masters"
+gpluspage: "https://plus.google.com/communities/100913016060492249875"
+copyright: (CC BY-NC-SA) 2015 - Fate Masters
+language: pt-br
+feeds:
+     - format: MP3
+       link: http://feeds.feedburner.com/FateMastersRPG
+     - format: OGG
+       link: http://feeds.feedburner.com/FateMastersRPG-OGG
+itunes:
+  link: https://itunes.apple.com/br/podcast/fate-masters/id1061476992
+  explicit: "NO"
+  keywords: "RPG, Fate, Fate Básico, Mestre, Narrador"
+  podcast_image: /images/FateMasters-itunes.jpg 
+  author: "Fate Masters"
+  email: fabiocosta0305@gmail.com
+  categories:
+      - RPG
+      - Fate
+      - Fate Core
+      - Fate Básico
+      

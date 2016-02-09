@@ -1,0 +1,36 @@
+{% if page.iaplayer %}
+<iframe src="https://archive.org/embed/{{ page.iaplayer }}" width="400" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+{% else %}
+<script type="text/javascript">
+  LBP.options = { controlsExtra: [] }
+</script>
+<div class="leanback-player-audio">
+<audio  controls>
+{% for audio in page.audios %}
+  {% for audio_info in audio %}
+<source src="{{audio_info[1]}}" type='audio/{{audio_info[0]|downcase}}; codecs="vorbis"'/>{% endfor %}{% endfor %}
+		<div class="leanback-player-html-fallback">
+			<div>
+				<strong>Download Audio:</strong>
+                                {% for audio in page.audios %}
+  {% for audio_info in audio %}
+<a href="{{audio_info[1]}}">.{{audio_info[0]|downcase}}</a>
+                                {% endfor %}
+                                {% endfor %}
+			</div>
+		</div>
+</audio>
+</div>
+{% endif %}
+<div style="margin-top: 50px;">
+<ul>
+                  {% for audio in page.audios %}
+  {% for audio_info in audio %}
+<li>
+                  <a href="{{ audio_info[1] }}">Programa em {{audio_info[0]}}</a>
+                  </li>
+                  {% endfor %}
+                  {% endfor %}
+{% include podcast_text.html %}
+</ul>
+</div>

@@ -1,0 +1,64 @@
+Du möchtest für diverse Artikel auf die Fate Würfel Symbole nicht verzichten?
+Das Einbinden der Fatefont in deine Website ist kein großes Problem.
+Die Fate Font in die Website integrieren
+
+Zuerst benötigst du die Font und noch ein paar Dateien die du auf die gleiche Ebene deines Server wie die CSS Datei packst. (Bei WordPress einfach ins Root des Themes.)
+
+Nun bindest du die Font in die CSS-Datei deiner Website oder z.B. deines WordPress-Themes ein.
+Das geschieht direkt in eurer CSS-Datei mit diesem Snippet:
+
+/* Fate Webfront einbinden */
+@font-face {
+font-family: 'fate';
+src: url('fate_core_font-webfont.eot');
+src: url('fate_core_font-webfont.eot?#iefix') format('embedded-opentype'),
+url('fate_core_font-webfont.woff') format('woff'),
+url('fate_core_font-webfont.ttf') format('truetype'),
+url('fate_core_font-webfont.svg#fate_core_glyphsregular') format('svg');
+font-weight: normal;
+font-style: normal;
+}
+span.fate_font {
+font-family: "fate";
+font-weight: normal;
+-webkit-font-smoothing: antialiased;
+font-smoothing: antialiased;
+}
+span.fate_font.big {
+font-size: 2em;
+line-height: 1.2em;
+}
+/* Fate Webfront einbinden */
+
+
+Die Lizenzfrage
+
+Als nächstes solltest du in den Fuß oder die Sidebar deiner Seite folgenden Vermerk setzen:
+
+    The Fate Core font is © Evil Hat Productions, LLC and is used with permission.
+    The Four Actions icons were designed by Jeremy Keller.
+
+Die Font nutzen:
+
+Danach kannst du das Ganze als Span-Tag in den Beiträgen und Seiten nutzen:
+Beispiel für die Würfel:
+<span class="fate_font">-+0+</span>
+ergibt dann:-+0+
+
+Beispiel für die Überschrift der Methode überwinden:
+<span class="fate_font big">O</span>
+ergibt dann: das Zeichen für Überwinden
+
+Glyphenübersicht:
+Zeichen 	Html-Code 	  	Ergebniss
+Pluzeichen + 	&#43; 	  	+
+Minuszeichen – 	&#45; 	  	–
+Ziffer Null 0 	&#48; 	  	0
+
+ 
+Die vier Actionen (Angreifen[A], Verteidigen[D], Vorteil erschaffen[C] und Überwinden[O]) folgen der amerikanischen Originalbezeichnung.
+  	 
+Vorteil erschaffen/Create Advantage = C
+Überwinden/Overcome = O
+Angreifen/Attack = A
+Verteidigen/Defend = D
