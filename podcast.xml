@@ -37,7 +37,7 @@ xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
 <link>{{ site.url }}</link>
 		<atom:link href="{{ site.url }}/podcast.xml" rel="self" type="application/rss+xml" />
 
-{% for item in site.categories.podcast %}
+{% for item in site.categories.podcast limit:10%}
 			<item>
 <author>{{ site.data.podcast.itunes.author | site.name }}</author>
 				<title>{{ item.title | xml_escape }}</title>                                
@@ -50,50 +50,7 @@ xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
                                         <a href="{{ audio_info[1] }}">
                                           <li>Link para o programa em {{audio_info[0]}}
                                         </a>
-
-<li> <strong>Participantes:</strong>
-<ul>
-  {% for host in item.hosts %}
-  <li>{{ host | markdownify | remove: '<p>' | remove: '</p>' }}
-{% endfor %}
-</ul>
-
-  <li> <strong>Duração:</strong> {{item.podcast_time}}
-
-{% if item.events %}
-<li> <strong>Cronologia do Podcast:</strong>
-<ul>
-  {% for event in item.events %}
-  <li><strong>{{event.time}} - </strong> {{ event.text | markdownify | remove: '<p>' | remove: '</p>' }}
-{% endfor %}
-</ul>
-{% endif%}
-
-                  {% if item.related_links %}
-<li><strong><i>Links</i> Relacionados:</strong></li>
-<ul>
-  {% for link in item.related_links %}
-                  <li>
-                  <a href="{{ link.link }}">{{ link.text  | markdownify | remove: '<p>' | remove: '</p>' }}</a>
-                  </li>
-            {% endfor %}
-</ul>
-                  {% endif %}
-  
-                  {% if site.data.podcast %}
-                  <li><a href="{{ site.data.podcast.gpluspage }}">Link para a comunidade do Google+ do Fate Masters</a>
-                  {% endif %}
-                  {% for link in site.data.podcast.feeds %}
-                  <li>
-                  <a href="{{ link.link }}">Assine o {{site.data.podcast.name}} em {{link.format}}</a>
-                  </li>
-            {% endfor %}
-                  <li>
-                  <a href="{{ site.url }}{{ item.url }}">Comente esse <em>item</em> no site do Fate Masters!</a>
-                  </li>
-{% if site.data.podcast.itunes.link %}<li><a href="{{ site.data.podcast.itunes.link }}">Assine no iTunes</a></li>{% endif %}
-
-                                        
+                                        {% include rss_podcast_text.html %}
                                         {% endcapture %}
                                         {{ link | xml_escape}}
                                         {% endif %}
