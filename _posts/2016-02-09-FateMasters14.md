@@ -57,4 +57,4 @@ events:
 
 No retorno do recesso de fim de ano, os Fate Masters falam sobre um tema que muitas vezes é confuso para quem vem de outros RPGs: a Evolução em Fate, incluindo os Marcos, como os distribuir, como aproveitar a _"involução"_ das perícias do personagem e como ajustar níveis de poder.
 
-E lembrando sempre: esse ano queremos ter mais dúvidas de vocês para tirar. Portanto, postem suas dúvidas no Twitter e Facebook usando a _hashtag_ #fatemasters. E ***NÃO SEJAM BABACAS**! Precisamos de muita gente jogando Fate. #quantomaisfatemaior, e não é zoando os outros e sendo idiotas vamos ter mais gente jogando!
+E lembrando sempre: esse ano queremos ter mais dúvidas de vocês para tirar. Portanto, postem suas dúvidas no Twitter e Facebook usando a _hashtag_ #fatemasters. E ***NÃO SEJAM BABACAS***! Precisamos de muita gente jogando Fate. #quantomaisfatemaior, e não é zoando os outros e sendo idiotas vamos ter mais gente jogando!
