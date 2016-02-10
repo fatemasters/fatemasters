@@ -36,13 +36,14 @@ xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
 </image>
 <link>{{ site.url }}</link>
 		<atom:link href="{{ site.url }}/podcast.xml" rel="self" type="application/rss+xml" />
-		{% for post in site.categories.podcast %}
+
+{% for item in site.categories.podcast %}
 			<item>
 <author>{{ site.data.podcast.itunes.author | site.name }}</author>
-				<title>{{ post.title | xml_escape }}</title>                                
-				<description>{{ post.content | xml_escape }}
+				<title>{{ item.title | xml_escape }}</title>                                
+				<description>{{ item.content | xml_escape }}
                   {{ shownotes | xml_escape %}}
-                  {% for audio in post.audios %}
+                  {% for audio in item.audios %}
                   {% for audio_info in audio %}
                                         {% if audio_info[0] == "MP3" %}
                                         {% capture link %}
@@ -52,26 +53,26 @@ xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
 
 <li> <strong>Participantes:</strong>
 <ul>
-  {% for host in post.hosts %}
+  {% for host in item.hosts %}
   <li>{{ host | markdownify | remove: '<p>' | remove: '</p>' }}
 {% endfor %}
 </ul>
 
-  <li> <strong>Duração:</strong> {{post.podcast_time}}
+  <li> <strong>Duração:</strong> {{item.podcast_time}}
 
-{% if post.events %}
+{% if item.events %}
 <li> <strong>Cronologia do Podcast:</strong>
 <ul>
-  {% for event in post.events %}
+  {% for event in item.events %}
   <li><strong>{{event.time}} - </strong> {{ event.text | markdownify | remove: '<p>' | remove: '</p>' }}
 {% endfor %}
 </ul>
 {% endif%}
 
-                  {% if post.related_links %}
+                  {% if item.related_links %}
 <li><strong><i>Links</i> Relacionados:</strong></li>
 <ul>
-  {% for link in post.related_links %}
+  {% for link in item.related_links %}
                   <li>
                   <a href="{{ link.link }}">{{ link.text  | markdownify | remove: '<p>' | remove: '</p>' }}</a>
                   </li>
@@ -88,7 +89,7 @@ xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
                   </li>
             {% endfor %}
                   <li>
-                  <a href="{{ site.url }}{{ post.url }}">Comente esse <em>post</em> no site do Fate Masters!</a>
+                  <a href="{{ site.url }}{{ item.url }}">Comente esse <em>item</em> no site do Fate Masters!</a>
                   </li>
 {% if site.data.podcast.itunes.link %}<li><a href="{{ site.data.podcast.itunes.link }}">Assine no iTunes</a></li>{% endif %}
 
@@ -99,21 +100,21 @@ xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
                                         {%endfor%}
                                         {%endfor%}
                                         </description>
-				<pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
-				<link>{{ site.url }}{{ post.url }}</link>
-				<guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
-<itunes:duration>{{post.itunes.duration}}</itunes:duration>
+				<pubDate>{{ item.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
+				<link>{{ site.url }}{{ item.url }}</link>
+				<guid isPermaLink="true">{{ site.url }}{{ item.url }}</guid>
+<itunes:duration>{{item.itunes.duration}}</itunes:duration>
 <!-- <itunes:keywords></itunes:keywords> -->
-<itunes:summary>{{post.excerpt}}</itunes:summary>
-<itunes:subtitle>{{ post.teaser | site.data.podcast.itunes.subtitle | site.description }}</itunes:subtitle>
+<itunes:summary>{{item.excerpt}}</itunes:summary>
+<itunes:subtitle>{{ item.teaser | site.data.podcast.itunes.subtitle | site.description }}</itunes:subtitle>
 <itunes:author>{{ site.data.podcast.itunes.author | site.name }}</itunes:author>
-{% if post.itunes.explicit %}
-<itunes:explicit>{{ post.itunes.explicit }}</itunes:explicit>
+{% if item.itunes.explicit %}
+<itunes:explicit>{{ item.itunes.explicit }}</itunes:explicit>
 {% endif %}
-{% if post.itunes.block %}
-<itunes:block>{{post.itunes.block}}</itunes:block>
+{% if item.itunes.block %}
+<itunes:block>{{item.itunes.block}}</itunes:block>
 {% endif %}
-{% for audio in post.audios %}
+{% for audio in item.audios %}
 {% for audio_info in audio %}
 {% if audio_info[0] == "MP3" %}
 <enclosure url="{{ audio_info[1] }}" type="audio/mpeg"/>
