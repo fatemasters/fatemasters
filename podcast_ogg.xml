@@ -34,7 +34,7 @@ xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
 </image>
 <link>{{ site.url }}</link>
 		<atom:link href="{{ site.url }}/podcast.xml" rel="self" type="application/rss+xml" />
-		{% for post in site.tags.fate-masters-podcast %}
+		{% for post in site.tags.fate-masters %}
 			<item>
 <author>{{ site.data.podcast.itunes.author | site.name }}</author>
 				<title>{{ post.title | xml_escape }}</title>                                
