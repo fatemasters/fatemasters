@@ -22,8 +22,8 @@ description: "Esse é o podcast onde você irá aprender a roubar, trapacear, sa
 
 # This URL is the main adresse. Don't include a slash at the end.
 #
-url: "https://hufflepuffbr.github.io/fate-masters"
-baseurl: "/fate-masters"
+url: "https://fatemasters.github.io/"
+baseurl: ""
 
 # This is for the editing function in _/includes/improve_content.html
 # Leave it empty if your site is not on GitHub/GitHub Pages
@@ -35,7 +35,7 @@ improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}/{{ post.image.title }}">
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}/image.jpg)
 #
-urlimg: "https://hufflepuffbr.github.io/fate-masters"
+urlimg: "https://fatemasters.github.io"
 
 
 # Logo size is 600x80 pixels

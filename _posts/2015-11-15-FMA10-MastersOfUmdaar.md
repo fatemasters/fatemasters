@@ -6,7 +6,6 @@ date: 2015-11-15 19:00:00 -0200
 layout: post
 categories:
   - Podcast
-  - Fate-Master-Podcast
 tags:
   - Fate
   - Fate-Core
@@ -34,9 +33,9 @@ related_links:
   - text: _Patreon_ dos _Worlds of Adventure_ da Evil Hat
     link: https://www.patreon.com/evilhat
   - text: "Tu'an-Yao, o Monge Usato (Personagem do Fábio)"
-    link: /fate-masters/personagens/MastersOfUmdaar-TuanYao/
+    link: /personagens/MastersOfUmdaar-TuanYao/
   - text: Naya, a Caçadora de Recompensas (Personagem do Paulo)
-    link: /fate-masters/personagens/MastersOfUmdaar-Naya/
+    link: /personagens/MastersOfUmdaar-Naya/
 events:
   - time: "00:07"
     text: Apresentação

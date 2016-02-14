@@ -6,7 +6,6 @@ date: 2015-08-23 21:32:00 -0300
 layout: post
 categories:
   - Podcast
-  - Fate-Master-Podcast
 tags:
  - Fate
  - Fate-Core

@@ -6,11 +6,10 @@ date: 2015-10-18 19:25:00 -0200
 layout: post
 categories:
   - Podcast
-  - Fate-Master-Podcast
 tags:
  - Fate
  - Fate-Core
- - fate-masters
+ - fate-masters-podcast
  - fate-masters-Apresenta
  - Encontro de RPG do CCJ
  - CCJ

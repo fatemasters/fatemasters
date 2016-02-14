@@ -5,7 +5,6 @@ teaser: O Podcast dos Algozes dos Jogadores!
 layout: post
 categories:
   - Podcast
-  - Fate-Master-Podcast
 tags:
  - Fate
  - Fate-Core

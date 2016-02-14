@@ -5,7 +5,6 @@ subheadline: Os Fate Masters perdidos entre os Otakus
 layout: post
 categories:
   - Podcast
-  - Fate-Master-Podcast
 tags:
  - Fate
  - Fate-Core
