@@ -1,5 +1,5 @@
 ---
-title: Fate Masters 6 - Criando um novo cenário - La Vaporeta
+title: Fate Masters Episódio 6 - Criando um novo cenário - La Vaporeta
 teaser: O Podcast dos Algozes dos Jogadores!
 subheadline: Steampunk en Latinoamerica en Fate
 date: 2015-07-28 09:38:00 -0300
