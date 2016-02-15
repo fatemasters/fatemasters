@@ -10,6 +10,7 @@ tags:
   - Fate
   - Fate-Core
   - fate-masters
+  - fate-masters-podcast
   - fate-masters-apresenta
   - Jogada de Mestre
   - Jadepunk
