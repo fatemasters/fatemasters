@@ -59,7 +59,7 @@ html {
 }
 @media (min-width: 48em) {
   html {
-    font-size: 12px;
+    font-size: 10px;
   }
 }
 @media (min-width: 58em) {
@@ -315,7 +315,7 @@ a.sidebar-nav-item:focus {
 .social-networks
 {
     display: inline-block;
-    font-size: 15pt;
+    font-size: 10pt;
 }
 }
 
@@ -352,7 +352,7 @@ a.sidebar-nav-item:focus {
 {
     text-align: center;
     display: inline-block;
-    font-size: 15pt;
+    font-size: 10pt;
 }
 }
 
