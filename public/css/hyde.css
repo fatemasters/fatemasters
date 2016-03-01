@@ -137,21 +137,6 @@ a.sidebar-nav-item:focus {
     bottom: 0.5rem;
     left:   0.5rem;
   }
-  .sidebar-sticky img {
-      max-width: 40px;
-  }
-}
-
-@media (min-width: 64em) {
-  .sidebar-sticky {
-    position: absolute;
-    right:  0.5rem;
-    bottom: 0.5rem;
-    left:   0.5rem;
-  }
-  .sidebar-sticky img {
-      max-width: 100%;
-  }
 }
 
 
