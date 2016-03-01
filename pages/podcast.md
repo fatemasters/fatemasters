@@ -7,7 +7,7 @@ header:
 permalink: "/podcast/"
 ---
 <ul>
-    {% for post in site.categories.podcast %}
+    {% for post in site.categories.podcast %} 
     <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
 </ul>
