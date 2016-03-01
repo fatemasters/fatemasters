@@ -91,10 +91,6 @@ html {
     width: 18rem;
     text-align: left;
   }
-  .sidebar img
-  {
-      max-width: 20%;
-  }
 }
 
 /* Sidebar links */
