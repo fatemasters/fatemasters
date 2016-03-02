@@ -2,7 +2,7 @@
 title: Fate Masters Episódio 15 - Migrando Jogadores (ou Novatos vs Veteranos)
 teaser: O Podcast dos Algozes dos Jogadores
 layout: post
-date: 2016-03-01 16:30:00 -0300
+date: 2016-03-01 15:15:00 -0300
 categories:
   - Podcast
 tags:
