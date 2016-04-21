@@ -43,3 +43,11 @@
                   <a href="{{ site.url }}{{ post.url }}">Comente esse <em>post</em> no site do {{site.data.podcast.name}}!</a>
 {% if site.data.podcast.itunes.link %}<li><a href="{{ site.data.podcast.itunes.link }}">Assine no iTunes</a></li>{% endif %}
 </li>
+{% if post.soundtrack %}
+<li><strong>Trilha Sonora do Podcast:</strong></li>
+<ul>
+  {% for music in post.soundtrack %}
+  <li><a href="{{ music.link }}">{{ music.music}}{% if music.artist %} por {{ music.artist }}{% endif %}</a>
+{% endfor %}
+</ul>
+{% endif %}

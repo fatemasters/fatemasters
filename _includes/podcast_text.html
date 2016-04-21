@@ -35,4 +35,13 @@
                   </li>
             {% endfor %}
 </ul>
+{% if page.soundtrack %}
+<li><strong>Trilha Sonora do Podcast:</strong></li>
+<ul>
+  {% for music in page.soundtrack %}
+  <li><a href="{{ music.link }}">{{ music.music}}{% if music.artist %} por {{ music.artist }}{% endif %}</a>
+{% endfor %}
+</ul>
+{% endif %}
                   {% endif %}
+
