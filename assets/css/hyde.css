@@ -33,12 +33,12 @@
 
 @font-face {
     font-family: 'Mono Social Icons Font';
-    src: url('/public/css/MonoSocialIconsFont-1.10.eot');
-    src: url('/public/css/MonoSocialIconsFont-1.10.eot?#iefix') format('embedded-opentype'),
-         url('/public/css/MonoSocialIconsFont-1.10.woff') format('woff'),
-         url('/public/css/MonoSocialIconsFont-1.10.ttf') format('truetype'),
-         url('/public/css/MonoSocialIconsFont-1.10.svg#MonoSocialIconsFont') format('svg');
-    src: url('/public/css/MonoSocialIconsFont-1.10.ttf') format('truetype');
+    src: url('/assets/css/MonoSocialIconsFont-1.10.eot');
+    src: url('/assets/css/MonoSocialIconsFont-1.10.eot?#iefix') format('embedded-opentype'),
+         url('/assets/css/MonoSocialIconsFont-1.10.woff') format('woff'),
+         url('/assets/css/MonoSocialIconsFont-1.10.ttf') format('truetype'),
+         url('/assets/css/MonoSocialIconsFont-1.10.svg#MonoSocialIconsFont') format('svg');
+    src: url('/assets/css/MonoSocialIconsFont-1.10.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
