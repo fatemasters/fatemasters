@@ -6,7 +6,7 @@ permalink: "/personagens/"
 ---
 
     
-Alguns personagens exemplos que eu criei
+Alguns personagens exemplos que são muito citados dentro do Fate Masters, inclusive personagens criados para nossas _Jogadas de Mestre_. Fique à vontade para ler sobre eles e usar eles em suas campanhas.
 
 {% capture site_tags %}{% for post in site.categories.personagens %}{% for tag in post.tags %}{{ tag | lstrip | rstrip }},{% endfor %}{% endfor %}
 {% endcapture %}
