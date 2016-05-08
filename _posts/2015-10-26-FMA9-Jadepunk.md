@@ -32,7 +32,7 @@ related_links:
   - text: Jadepunk - pela Pensamento Coletivo
     link: http://pensamentocoletivo.com.br/role-playing-games/jadepunk/
   - text: Marak Saeran (Personagem do Fábio)
-    link: /fate-masters/personagens/Jadepunk-MarakSaeran/
+    link: /personagens/Jadepunk-MarakSaeran/
 events:
   - time: "00:07"
     text: Apresentação

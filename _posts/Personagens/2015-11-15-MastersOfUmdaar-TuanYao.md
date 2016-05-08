@@ -7,37 +7,30 @@ layout: post
 categories:
   - personagens
 tags:
-  - Fate
-  - Fate-Core
-  - fate-masters
-  - fate-masters-apresenta
-  - Jogada de Mestre
   - Masters Of Umdaar
-  - Mesa Gravada
-  - Personagem
 header: no
 ---
 
-### Informações Iniciais
+## Informações Iniciais
 
-+ _Bioforma:_ Usato (Homens-coelho) - Mutabeast
-+ _Classe:_ Monge 
+| _Bioforma:_ | Usato (Homens-coelho) - _Mutabeast_ |
+| _Classe:_   | Monge                               |
 
-### Aspectos
+## Aspectos
 
-+ __Conceito:__ Um Sábio Monge Usato com poderes mentais
-+ __Motivação:__ Preciso descobrir mais conhecimento para proteger as pessoas
-+ __Pessoal:__ Sede de viagem
-+ _Naya possui a Força para mudar o mundo... Mas falta-lhe  a Sabedoria_
+| __Conceito__  | Um Sábio Monge Usato com poderes mentais                               |
+| __Motivação__ | Preciso descobrir mais conhecimento para proteger as pessoas           |
+| __Pessoal__   | Sede de viagem                                                         |
+|               | _Naya possui a Força para mudar o mundo... Mas falta-lhe  a Sabedoria_ |
 
-### Abordagens
+## Abordagens
 
-+ __Ágil:__ Razoável (+2)
-+ __Cuidadoso:__ Razoável (+2)
-+ __Esperto:__ Bom (+3)
-+ __Estiloso:__ Medíocre (+0)
-+ __Poderoso:__ Regular (+1)
-+ __Sorrateiro:__ Regular (+1)
+| __Ágil__       | Razoável (+2) |
+| __Cuidadoso__  | Razoável (+2) |
+| __Esperto__    | Bom (+3)      |
+| __Estiloso__   | Medíocre (+0) |
+| __Poderoso__   | Regular (+1)  |
+| __Sorrateiro__ | Regular (+1)  
 
 ### Façanhas: [Recarga: 2]
 
@@ -46,7 +39,7 @@ header: no
 + __Precognição__: Uma vez por cena, quando _Defender-se_ de maneira _Cuidadosa_ contra armadilhas ou uma ameaça estática, pode utilizar _Outcome Surge_ para o resultado;
 + __Pernas Poderosas__: Em Disputas ou _Cliffhangers_, recebe +2 ao Superar obstáculos Físicos ou Criar Vantagens;
 
-### Histórico
+---
 
 O povo Usato é um povo em geral pacífico que vive em uma região afastada, no Vale Verde, em comunidades quase que autosuficiente. Entretanto eles nunca fecharam os olhos ao sofrimento e à maldade de fora. Ocasionalmente, em muitos locais do mundo, batedores, guerreiros, ladinos e monges Usato podem ser vistos. São facilmente reconhecíveis pelos longos pés, pernas musculosas que lhe dão força para saltar e chutar, olhos com grandes pupilas, muitas vezes albinos, rostos com focinhos enormes e grandes narinas, que lhes permitem ocasionalmente discernir cheiros (nos mais treinados) e orelhas que algumas vezes correspondem a um quinto de sua altura real, o que é bastante considerando que o Usato típico não tem mais que 1,60 de altura.
 

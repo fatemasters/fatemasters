@@ -1,7 +1,7 @@
 ---
 subheadline: O Espírito do Otimismo de Young Centurions!
 title: Nicola Castrogiovanni - O Espírito do Otimismo
-layout: post
+layout: personagens
 categories:
   - personagens
 tags:
@@ -11,8 +11,6 @@ header: no
 
 ## Aspectos
 
-| ***Tipo***       | ***Aspecto***                                                |
-|------------------|-------------------------------------------------------------|
 | __Conceito__     | _Garoto do Circo Extremamente Otimista e Ingênuo_           |
 | __Dificuldade__  | _Duas, Três, Quatro... Quantas chances forem necessárias_   |
 |                  | _Don Cagliostro sempre me protege_                          |
@@ -21,8 +19,6 @@ header: no
 
 ## Abordagens
 
-| ***Abordagem*** | ***Nível***     |
-|-----------------|-----------------|
 | __Ágil__        | _Regular (+1)_  |
 | __Cuidadoso__   | _Bom (+3)_      |
 | __Esperto__     | _Regular (+1)_  |
@@ -38,6 +34,8 @@ header: no
 
 + Como acredito que _Todo mundo é bom no fim das contas_, recebo +2 para _Criar Vantagens_ ao descobrir (ou criar) Aspectos bondosos em alguém _de Maneira Cuidadosa_.
 + _Ator:_ Como Nicola é um ator costumaz, ele não sofre penalidades ao tentar se passar por pessoas muito mais velhas, altas ou baixas que ele mesmo, com sotaques diferentes, e por aí afora.
+
+---
 
 ## Aparência
 
