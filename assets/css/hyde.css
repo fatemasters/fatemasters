@@ -163,7 +163,7 @@ a.sidebar-nav-item:focus {
 }
 
 .content img {
-    max-width: 50%;
+    max-width: 100%;
     float: center;
 }
 
@@ -373,5 +373,25 @@ a.sidebar-nav-item:focus {
     text-align: center;
     display: inline-block;
     font-size: 20pt;
+}
+}
+
+.fate_font
+{
+    font-family: "Fate Core Font";
+}
+
+@media (min-width: 58em) {
+.sidebar-sticky img
+{
+    max-width: 150px;
+}
+}
+
+
+@media (min-width: 48em) {
+.sidebar-sticky img
+{
+    max-width: 100px;
 }
 }
