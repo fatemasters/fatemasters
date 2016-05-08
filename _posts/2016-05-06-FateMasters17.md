@@ -46,7 +46,7 @@ related_links:
     link: http://www.pensamentocoletivo.com.br/role-playing-games/jadepunk/
   - text: Destino de Hogwarts (Adaptação de Harry Potter do Mr. Mickey)
     link: https://drive.google.com/open?id=0B5ecFMxgUsUQWHpLRmcyVnp5TUk
-  - text: Destino dos Desenhos Animados (Adaptação de Harry Potter do Mr. Mickey)
+  - text: Destino dos Desenhos Animados (Adaptação de Desenhos Animados do Mr. Mickey)
     link: https://drive.google.com/open?id=0B5ecFMxgUsUQOUJzMXY4TENCZkU
   - text: Psychedemia
     link: http://www.drivethrurpg.com/product/142732/Psychedemia--A-World-of-Adventure-for-Fate-Core
