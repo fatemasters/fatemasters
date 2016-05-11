@@ -1,7 +1,10 @@
 # Dependencies
 #markdown:         redcarpet
 highlighter:      pygments
-gems: [jekyll-paginate, jekyll-sitemap]
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
 # Permalinks
 permalink:        /:categories/:title/
