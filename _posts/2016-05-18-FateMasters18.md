@@ -2,7 +2,7 @@
 title: Fate Masters Episódio 18 - Fate Fractal
 teaser: O Podcast dos Algozes dos Jogadores
 layout: post
-date: 2016-05-24 09:45:00 -0300
+date: 2016-05-24 11:50:00 -0300
 categories:
   - Podcast
 tags:
@@ -29,8 +29,6 @@ related_links:
     link: http://www.drivethrurpg.com/product/153980/Nest--A-World-of-Adventure-for-Fate-Core
   - text: Young Centurions
     link: http://www.evilhat.com/home/young-centurions/
-  - text: Daring Comics
-    link: http://www.drivethrurpg.com/product/173130/Daring-Comics-RolePlaying-Game
   - text: Episódio sobre Aspectos
     link: /podcast/FateMasters2/
   - text: Destino dos Desenhos Animados (Adaptação de Desenhos Animados do Mr. Mickey)
@@ -65,7 +63,9 @@ related_links:
     link: https://www.facebook.com/groups/faterpgbrasil/permalink/779360925520282/
   - text: Fate Masters Apresenta - _Star-Fifo_
     link: /podcast/FMA1-StarFifo/
-  - text: Fate Masters Episódio 3 - Onde o _Velho Lich_ citou pela primeira vez o Fusquinha fugindo do Atoleiro
+  - text: Fortivitus - a aventura de _Young Centurions_ que foi citada pelo _Mr. Mickey_
+    link: /aventuras/Fortivitus/
+  - text: Episódio nº 3 - Onde foi mencionada pela primeira vez o Fusquinha e o Deslizamento do _Velho Lich_
     link: /podcast/FateMasters3/
 events:
   - time: "00:05"
