@@ -56,7 +56,7 @@ related_links:
   - text: Slip
     link: www.drivethrurpg.com/product/157267/SLIP--A-World-of-Adventure-for-Fate-Core
   - text: Veículos de _La Vaporeta_
-    link: https://drive.google.com/open?id=0B5ecFMxgUsUQOUJzMXY4TENCZkU
+    link: https://drive.google.com/open?id=0B5ecFMxgUsUQVDZXR0xuZzRfTkE
   - text: Desafio dos Dragões
     link: https://www.facebook.com/groups/faterpgbrasil/permalink/737142929742082/
   - text: Desafio de Natal
