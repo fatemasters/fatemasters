@@ -57,7 +57,13 @@ xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
                                         </description>
 				<pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
 				<link>{{ site.url }}{{ post.url }}</link>
-				<guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
+                  {% for audio in post.audios %}
+                  {% for audio_info in audio %}
+                                        {% if audio_info[0] == "MP3" %}
+				<guid isPermaLink="true">{{ audio_info[1] | split: "/" | last }}</guid>
+                                        {% endif %}
+                  {% endfor %}
+                  {% endfor %}
 <itunes:duration>{{post.itunes.duration}}</itunes:duration>
 <!-- <itunes:keywords></itunes:keywords> -->
 <itunes:summary>{{post.excerpt}}</itunes:summary>
