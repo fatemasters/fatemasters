@@ -73,6 +73,9 @@ Lembrem-se: qualquer  dúvidas, críticas, sugestões  e opiniões você pode en
 
 Além disso, [temos agora nosso Espaço no _Google Space_][spaces] para você ouvinte comentar, trocar idéias, sugerir pautas e tudo mais.
 
+E deixamos também um convite para [participar das Dungeons Geeks][dungeongeek], tanto durante a semana, quanto nos eventos de fim de semana. São muito bons, só com pessoas do bem e com muito RPG.
+
 [gplus]: https://plus.google.com/communities/100913016060492249875
 [fb]: https://www.facebook.com/groups/faterpgbrasil/
 [spaces]: https://goo.gl/spaces/gFqsaUsaSJN1boHH9
+[dungeongeek]:  https://www.facebook.com/DungeonGeek21/
