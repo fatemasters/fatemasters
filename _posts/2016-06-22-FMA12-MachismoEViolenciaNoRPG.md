@@ -2,7 +2,7 @@
 title: Fate Masters Apresenta 12 - Machismo e Cultura de Violência no RPG (com Domy Perretti)
 teaser: O Podcast dos Algozes dos Jogadores
 layout: post
-date: 2016-06-22 10:00:00 -0300
+date: 2016-06-22 14:30:00 -0300
 categories:
   - Podcast
 tags:
