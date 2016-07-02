@@ -14,7 +14,7 @@ xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
 		<title>{{site.title}}</title>
 		<description>{{site.description}}</description>
 {% for category in site.data.podcast.itunes.categories | limit: 5 %}
-<itunes:category text="{{ category }}"/>
+<itunes:category text="{{ category | escape }}"/>
 {% endfor %}
 <itunes:explicit>{{ site.data.podcast.itunes.explicit }}</itunes:explicit>
 <itunes:keywords>{{ site.data.podcast.itunes.keywords }}</itunes:keywords>
