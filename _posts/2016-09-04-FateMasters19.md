@@ -2,7 +2,7 @@
 title: Fate Masters Episódio 19 - Fate Masters Analisa Bukatsu
 teaser: O Podcast dos Algozes dos Jogadores
 layout: post
-date: 2016-09-04 14:00:00 -0300
+date: 2016-09-04 18:50:00 -0300
 categories:
   - Podcast
 tags:
