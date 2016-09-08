@@ -19,7 +19,7 @@
                   {% if post.related_links %}
 <li><strong><i>Links</i> Relacionados:</strong></li>
 <ul>
-   {% for link in page.related_links %}
+   {% for link in post.related_links %}
 {% assign real_link=link.link %}
 {% assign link_start = real_link | slice: 0 %}
 {% if  link_start == "/" %}{% assign real_link = real_link | prepend: site.url %}{% endif %}
