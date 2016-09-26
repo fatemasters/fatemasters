@@ -53,8 +53,11 @@
 }
 */
 
+@import url("latofonts.css");
+@import url(http://fonts.googleapis.com/earlyaccess/notosansjapanese.css);
+
 html {
-    font-family: "Carlito", Helvetica, Arial, sans-serif;
+    font-family: "LatoWebMedium", Helvetica, Arial, sans-serif;
     text-align: justify;
 }
 @media (min-width: 48em) {
@@ -379,6 +382,11 @@ a.sidebar-nav-item:focus {
 .fate_font
 {
     font-family: "Fate Core Font";
+}
+
+.kanji
+{
+    font-family: "Noto Sans Japanese", sans;
 }
 
 @media (min-width: 58em) {
