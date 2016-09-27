@@ -22,7 +22,7 @@ itunes:
 audios:
  - OGG: https://archive.org/download/FM20NiveisDePoder/FM20-NiveisDePoder.ogg       
  - MP3: https://archive.org/download/FM20NiveisDePoder/FM20-NiveisDePoder.mp3
-iaplayer: FM20-NiveisDePoder
+iaplayer: FM20NiveisDePoder
 related_links:
   - text: Rurouni Kenshin
     link: https://pt.wikipedia.org/wiki/Rurouni_Kenshin
