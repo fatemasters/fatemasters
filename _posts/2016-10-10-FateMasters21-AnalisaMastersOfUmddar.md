@@ -2,7 +2,7 @@
 title: Fate Masters Episódio 21 - Níveis de Poder
 teaser: O Podcast dos Algozes dos Jogadores
 layout: post
-date: 2016-09-24 17:30:00 -0300
+date: 2016-10-10 13:00:00 -0300
 categories:
   - Podcast
 tags:
