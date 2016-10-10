@@ -1,5 +1,5 @@
 ---
-title: Fate Masters Episódio 21 - Analisa Fate Masters
+title: Fate Masters Episódio 21 - Analisa Masters of Umdaar
 teaser: O Podcast dos Algozes dos Jogadores
 layout: post
 date: 2016-10-10 13:00:00 -0300
