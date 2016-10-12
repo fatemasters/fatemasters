@@ -145,4 +145,4 @@ Além disso, [temos agora nosso Espaço no _Google Space_][spaces] para você ou
 [umdaar]: http://www.drivethrurpg.com/product/155458/Masters-of-Umdaar--A-World-of-Adventure-for-Fate-Core
 [dd]: http://dnd.wizards.com/
 [gerador]: {{ site.url }}/assets/GridRandomicoFate.pdf
-[cenas]: {{ site.url }}/assets/post_url FichaDeCena.pdf
+[cenas]: {{ site.url }}/assets/FichaDeCena.pdf
