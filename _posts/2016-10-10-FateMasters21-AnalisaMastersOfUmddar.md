@@ -73,6 +73,10 @@ related_links:
     link: https://en.wikipedia.org/wiki/Rolemaster
   - text: "Anima: Beyond Fantasy"
     link: https://en.wikipedia.org/wiki/Anima_(series)#Anima:_Beyond_Fantasy
+  - text: Grid Randômico para o Fate (com probabilidade de sair o resultado)
+    link: /assets/GridRandomicoFate.pdf
+  - text: Ficha de Planejamento de Cena (com o sistema de resultados baseado em _Masters of Umdaar_)
+    link: /assets/FichaDeCena.pdf
 events:
   - time: "00:00:17"
     text: Abertura e Apresentação do Novo Fate Master Luiz
@@ -128,6 +132,8 @@ Falamos de cenários _pulp_ pós-apocalipticos, soluções elegantes para random
 
 E plantamos a treta em relação ao [_Irmão Mais Velhor_][dd]. E teleportamos o _Congresso Nacional_ para Umdaar.
 
+E para dar mais material ao narrador, colocamos uma matriz para você criar seu próprio [Gerador][gerador] e de [Ficha de Planejamento de Cenas][cenas]
+
 Lembrem-se: qualquer  dúvidas, críticas, sugestões  e opiniões você pode enviar na [comunidade do Google+ do Fate Masters][gplus], na [comunidade do Facebook do Fate (com a hashtag _#fatemasters_)][fb], e pelo email <fatemasterspodcast@gmail.com>
 
 Além disso, [temos agora nosso Espaço no _Google Space_][spaces] para você ouvinte comentar, trocar idéias, sugerir pautas e tudo mais.
@@ -138,3 +144,5 @@ Além disso, [temos agora nosso Espaço no _Google Space_][spaces] para você ou
 [woa]: http://www.evilhat.com/home/fate-worlds-and-adventures/
 [umdaar]: http://www.drivethrurpg.com/product/155458/Masters-of-Umdaar--A-World-of-Adventure-for-Fate-Core
 [dd]: http://dnd.wizards.com/
+[gerador]: {{ site.url }}/assets/GridRandomicoFate.pdf
+[cenas]: {{ site.url }}/assets/post_url FichaDeCena.pdf
