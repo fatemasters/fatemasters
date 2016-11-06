@@ -6,6 +6,15 @@
   <!-- Enable responsiveness on mobile devices-->
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 
+
+{% if site.fb_moderators %}
+  <!-- Facebook moderators -->
+  {% for id in site.fb_moderators %}
+<meta property="fb:admins" content="{{ id }}"/>
+{% endfor %}
+ {% endif %}
+
+  
   <title>
     {% if page.title == "Home" %}
       {{ site.title }} &middot; {{ site.tagline }}

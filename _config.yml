@@ -30,3 +30,8 @@ github:
 collections:
   authors:
     output: true
+
+# Facebook moderators
+
+fb_moderators:
+  - fabiocosta0305
