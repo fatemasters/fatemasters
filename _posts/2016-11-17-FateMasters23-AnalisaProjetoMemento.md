@@ -2,7 +2,7 @@
 title: Fate Masters Episódio 23 - Analisa Projeto Memento
 teaser: O Podcast dos Algozes dos Jogadores
 layout: post
-date: 2016-11-17 09:35:00 -0200
+date: 2016-11-17 11:35:00 -0200
 categories:
   - Podcast
 tags:
@@ -21,9 +21,9 @@ podcast_time: "57min"
 itunes:
   duration: 57:31
 audios:
- - OGG: https://archive.org/download/FM23AnalisaProjetoMemento/FM23-AnalisaProjetoMemento.ogg       
- - MP3: https://archive.org/download/FM23AnalisaProjetoMemento/FM23-AnalisaProjetoMemento.mp3
-iaplayer: FM23AnalisaProjetoMemento
+ - OGG: https://archive.org/download/FateMasters23AnalisaProjetoMemento/FateMasters23-AnalisaProjetoMemento.ogg       
+ - MP3: https://archive.org/download/FateMasters23AnalisaProjetoMemento/FateMasters23-AnalisaProjetoMemento.mp3
+iaplayer: FateMasters23AnalisaProjetoMemento
 related_links:
   - text: Projeto Memento
     link: http://solarentretenimento.com.br/loja/rpgs/15-projeto-memento.html
