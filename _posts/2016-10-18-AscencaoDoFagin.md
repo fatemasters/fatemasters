@@ -1,7 +1,7 @@
 ---
 title: A Ascensão do Fagin
 subtitle: Uma aventura para os  _Jovens Centuriões do Século 20_
-layout: aventuras
+layout: page
 language: br
 #date: 2016-10-11 16:00:00 -0300
 #date: 2016-08-23 23:15:00 -0300
