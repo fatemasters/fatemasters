@@ -2,7 +2,7 @@
 title: Fate Masters Episódio 24 - Pesquisa para Aventuras de RPG
 teaser: O Podcast dos Algozes dos Jogadores
 layout: post
-date: 2016-12-05 10:00:00 -0200
+date: 2016-12-05 20:50:00 -0200
 categories:
   - Podcast
 tags:
@@ -110,20 +110,34 @@ related_links:
   - text: Como Fazer Perguntas Inteligentes
     link: http://wiki.python.org.br/ComoFazerPerguntasInteligentes
 events:
-  - time: "00:11"
+  - time: "00:00:11"
     text: Abertura
-  - time: "01:29"
+  - time: "00:01:29"
     text: _"Mecânica ou Regras? O que é mais importante?"_
-  - time: "10:56"
+  - time: "00:10:56"
     text: "_Onde e como começar a buscar informações?_ - use as referências indicadas no seu cenário e procure fóruns adequados (com a etiqueta adequada)" 
-  - time: "24:48"
+  - time: "00:24:48"
     text: Se prepare, pesquise e passe o que você já sabe... Mesmo que seja apenas o que você obteve no Google
-  - time: "27:40"
+  - time: "00:27:40"
     text: Uma pessoa que você segue por motivos aleatórios pode ser a chave para obter informações!
-  - time: "34:21"
+  - time: "00:34:22"
     text: _"Imagens, Imagens..."_ Sempre bom ter imagens
-  - time: "36:50"
+  - time: "00:36:50"
     text: Como usar as informações obtidas anteriormente para montar suas aventuras
+  - time: "00:42:49"
+    text: Evite generalizações idiotas! Histórias são contadas sobre ótica e possuem viés!
+  - time: "00:48:01"
+    text: Dicas para armazenar esse conteúdo
+  - time: "00:50:30"
+    text: Juntando tudo para Narrar sua aventura! Trocando imagens e gerenciando informações de maneira tecnológica... E como isso não funciona em Horror.
+  - time: "00:57:39"
+    text: As vantagens de ter tudo preparado previamente e carregado em seu celular (ou pasta)
+  - time: "00:59:34"
+    text: Não ABUSE de espaço ou se SUPER-PREPARE!
+  - time: "01:03:33"
+    text: Narrativa e Jogo tem importância igual... 
+  - time: "01:05:35"
+    text: Considerações Finais... E nada disso é lavrado em pedra!
 soundtrack:
   - music: Ambient Pills
     artist: Zeropage
@@ -140,6 +154,8 @@ Hoje vamos falar sobre pesquisa e preparação de uma aventura: o que levar em c
 Damos dicas de o que buscar, onde buscar, como escrever suas aventuras e como utilizar tudo a sua disposição, inclusive com ferramentas online para consulta e agregar informações.
 
 Pedimos desculpa pelos problemas de áudio. Tivemos alguns problemas de captação e edição.
+
+Como dica não citada: [_Despreparado, Nunca!_](http://www.pensamentocoletivo.com.br/loja/r-p-g/despreparado-nunca/) pela Pensamento Coletivo.
 
 Por fim, uma _errata_: quando o _Mr. Mickey_ menciona que o _New York Giants_ era chamado de _New York Highlanders_, na verdade era o _New York Yankees_
 
