@@ -8,6 +8,9 @@ layout: default
   {% if page.audios %}
   {% include podcast_player.html %}
   {% endif %}
+  {% if page.youtube %}
+  {% include youtube.html id=page.youtube %}
+  {% endif %}
   {{ content }}
   {% if page.audios %}
   {% include podcast.html %}
