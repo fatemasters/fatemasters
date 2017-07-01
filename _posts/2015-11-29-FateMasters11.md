@@ -57,6 +57,7 @@ events:
     text: Lidando com o tempo gasto na aventura
   - time: "51:23"
     text: Considerações finais
+episode: 22
 ---
 
 Nesse  podcast, os vilões de sempre Fábio, Filipe, Paulo e Rafael, se reunem para falarem sobre a preparação de aventura, quanto tempo gastar preparando os eventos, conflitos e NPCs; de onde vem a inspiração; o que fazer no caso de os personagens fazerem algo completamente fora do que você esperava ou matar seu vilão principal logo de cara, entre outros tanto assuntos.

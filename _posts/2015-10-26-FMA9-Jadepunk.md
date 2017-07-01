@@ -44,6 +44,7 @@ events:
     text: A Chegada às Minas e o desenrolar da parte mais importante da aventura
   - time: "93:32"
     text: O Desfecho, conclusões e considerações finais
+episode: 18
 ---
 
 Vocês pediram,  nós atendemos! Pela  primeira vez, os Fate  Masters se

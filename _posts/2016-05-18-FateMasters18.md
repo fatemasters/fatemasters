@@ -101,6 +101,7 @@ soundtrack:
   - music: Ambient Pills Update
     artist: Zeropage
     link: http://www.zeropage-media.com/index.php/free-music/ambient-pills-update
+episode: 33
 ---
 
 Para encerrar essa  série de Façanhas, Extras e Fractal do Fate, nesse Podcast o _Mr. Mickey_ Fábio e o _Velho Lich_ Rafael falam sobre o Fate Fractal, ou seja, sobre como você pode lidar com qualquer coisa importante o bastante usando as mesmas regras que qualquer personagem em Fate usa. Organizações, Veículos, Equipamentos, Armamentos, até mesmo a _Campanha como um todo_, como no caso do _World of Adventure_ Slip. Como criar, o que levar em consideração, o que aproveitar e muitos, muitos exemplos.

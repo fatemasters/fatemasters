@@ -102,6 +102,7 @@ soundtrack:
   - music: Ambient Pills Update
     artist: Zeropage
     link: http://www.zeropage-media.com/index.php/free-music/ambient-pills-update
+episode: 37
 ---
 
 Nesse novo _Fate Masters_ discutimos os Níveis de Poder em Fate, como ajustar o nível de poder de suas aventuras e campanhas, como cada elemento do Fate afetam tal característica, como o nível padrão da aventura não precisa ser o nível dos humanos ou da maior parte da população do mundo, entre outras coisas.

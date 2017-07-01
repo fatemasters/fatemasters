@@ -33,6 +33,7 @@ soundtrack:
   - music: Ambient Pills Update
     artist: Zeropage
     link: http://www.zeropage-media.com/index.php/free-music/ambient-pills-update
+episode: 44
 ---
 
 E encerramos 2016 com um Fate Masters totalmente especial, gravado ao vivo: uma sessão de perguntas e respostas sobre Fate no Brasil, no mundo e sobre RPG em geral, envolvendo os Fate Masters Fábio Costa, Rafael Meyer e Luís Cavalheiro, contando com a presença do Algoz especialmente convidado Alain Valchera, da Solar!

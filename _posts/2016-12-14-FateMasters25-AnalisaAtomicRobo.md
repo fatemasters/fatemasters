@@ -123,6 +123,7 @@ soundtrack:
   - music: Ambient Pills Update
     artist: Zeropage
     link: http://www.zeropage-media.com/index.php/free-music/ambient-pills-update
+episode: 43
 ---
 
 E temos mais um Fate Masters. E dessa vez não falaremos apenas de um, mas de dois produtos, que serão dissecados como de costume pelo Velho Lich Rafael Meyer e o Mr. Mickey Fábio Costa.

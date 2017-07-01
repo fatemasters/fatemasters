@@ -74,6 +74,7 @@ related_links:
     link: https://en.wikipedia.org/wiki/Battlestar_Galactica_(2004_TV_series)
   - text: Claymore
     link: https://en.wikipedia.org/wiki/Claymore_(manga)
+episode: 46
 ---
 
 Nesse episódio novamente conturbado do _Fate Masters Apresenta_, vamos falar de um cenário que está em Financiamento Coletivo no Brasil, o cenário de Cyberpunk Distópico Pós-Apocaliptíco _Evolution Pulse_. Para isso o  Velho Lich Rafael e Mr. Mickey Fábio bateram um papo com o Executor _Sílvio Rivera_, para falarmos sobre esse cenário, o que ele trás de interessante em termos de regras e sobre financiamentos coletivos em geral. Sincronize sua pulsação com o Fate Masters e mude o mundo... Mas cuidado ao abrir a Caixa de Pandora!

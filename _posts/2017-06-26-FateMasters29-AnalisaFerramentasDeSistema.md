@@ -115,6 +115,7 @@ soundtrack:
   - music: Ambient Pills Update
     artist: Zeropage
     link: http://www.zeropage-media.com/index.php/free-music/ambient-pills-update
+episode: 48
 ---
 
 Nesse Fate Masters especial, com a ausência do Velho Lich Rafael Meyer e do Cicerone do Fate Horror Luís Cavalheiro, o Mr. Mickey Fábio Costa analisa um produto essencial para seus jogos e campanhas de Fate, o [Fate - Ferramentas de Sistema](http://solarentretenimento.com.br/loja/fate/58-fate-ferramentas-do-sistema-digital.html), detalhando o livro em sua qualidade, citando as melhores regras e mostrando como aproveitar bem esse módulo com suas diversas regras e inovações: condições, Esferas de Perícias, Raças, Magia, Superpoderes, Kung-Fu, Nível de Poder, Horror e assim por diante.

@@ -25,6 +25,7 @@ audios:
  - OGG: https://archive.org/download/FateMasters3HabilidadesEAbordagens/Fate%20Masters%20%233%20-%20Habilidades%20e%20abordagens.ogg
  - MP3: https://archive.org/download/FateMasters3HabilidadesEAbordagens/Fate%20Masters%20%233%20-%20Habilidades%20e%20abordagens.mp3
 iaplayer: FateMasters3HabilidadesEAbordagens
+episode: 3
 ---
 
 E os  Fate Masters estão de  volta. Dessa vez Rafael,  Fábio e Filipe,

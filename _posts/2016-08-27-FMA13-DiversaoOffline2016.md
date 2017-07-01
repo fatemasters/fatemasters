@@ -62,6 +62,7 @@ soundtrack:
   - music: Ambient Pills
     artist: Zeropage
     link: http://www.zeropage-media.com/index.php/free-music/ambient-pills
+episode: 35
 ---
 
 Depois de um hiato por problemas pessoais de todos, os Fate Masters voltam para falar sobre a Diversão Offline 2016, onde estivemos ajudando a Solar Entretenimento a divulgar o Fate, junto com o Cicerone do Fate Horror, Luis Cavalheiro. Vamos falar o que vimos de bom, de ruim e de bizarro neste evento que agitou a comunidade de RPG e boardgames no último dia das Olimpíadas (sim, nem nós conseguimos escapar dos reflexos do fim das Olimpíadas)!

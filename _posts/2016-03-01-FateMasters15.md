@@ -60,6 +60,7 @@ events:
     text: "Anúncios"
   - time: "59:56"
     text: "Considerações Finais"
+episode: 29
 ---
 
 Nesse podcast do Fate Masters, aproveitamos alguns desabafos sobre jogadores experientes que não compreendem o Fate e debatemos sobre pontos que podem ajudar a migração.

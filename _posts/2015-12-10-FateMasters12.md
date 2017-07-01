@@ -65,6 +65,7 @@ events:
     text: Questões Pendentes _vs_ Questões Iminentes
   - time: "45:47"
     text: Sumarizando e Considerações Finais
+episode: 23
 ---
 
 Nesse  podcast, os vilões de sempre Fábio, Filipe, Paulo e Rafael, começam a falar sobre a preparação de uma campanha, determinando os tipos, procurando descobrir como preparar ela, definir as Questões e Preencher a Ficha de Criação de Mundo e com isso ter uma estrutura para seus mundos de Campanha, seja para One-Shots ou Campanhas de Grupos duradoras e qualquer outra coisa no meio do caminho!

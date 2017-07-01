@@ -80,6 +80,7 @@ related_links:
     link: https://hufflepuffbr.github.io/fate-core/moreania/
   - text: Destino de Perry Rhodan
     link: https://hufflepuffbr.github.io/fate-core/perry-rhodan/
+episode: 11
 ---
 
 Nesse podcast  especial, continuação  do último podcast  sobre criação

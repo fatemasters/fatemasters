@@ -71,6 +71,7 @@ events:
     text: Sobre preparação de interpretação dos personagens
   - time: "60:27"
     text: Considerações Finais
+episode: 21
 ---
 
 Nesse  podcast, começamos  um novo  tema: a  Preparação.  Simplesmente

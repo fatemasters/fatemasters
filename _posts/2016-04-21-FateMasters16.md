@@ -77,6 +77,7 @@ soundtrack:
   - music: Ambient Pills Update
     artist: Zeropage
     link: http://www.zeropage-media.com/index.php/free-music/ambient-pills-update
+episode: 31
 ---
 
 Nesse episódio especial de Aniversário de 1 ano do _Fate Masters_, quem recebe o presente é você, ouvinte: uma dúvida de um dos nosssos ouvintes nos inspirou a abrir uma nova série, a partir do tema Façanhas.

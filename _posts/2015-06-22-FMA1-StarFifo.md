@@ -26,6 +26,7 @@ audios:
  - OGG: https://archive.org/download/FateMastersApresenta1StarFifo/FateMastersApresenta%231-StarFifo.ogg
  - MP3: https://archive.org/download/FateMastersApresenta1StarFifo/FateMastersApresenta%231-StarFifo.mp3
 iaplayer: FateMastersApresenta1StarFifo
+episode: 4
 ---
 
 Olá a todos!

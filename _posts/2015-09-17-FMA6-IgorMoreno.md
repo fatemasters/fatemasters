@@ -90,6 +90,7 @@ events:
     text: Sobre o que mais gosta no Fate
   - time: "43:31"
     text: Considerações Finais
+episode: 14
 ---
 
 Nesse Fate Masters  Apresenta, começamos uma série  de entrevistas com

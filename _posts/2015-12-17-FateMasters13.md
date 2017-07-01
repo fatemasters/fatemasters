@@ -70,6 +70,7 @@ events:
     text: _"Não faça todo o trabalho!"_
   - time: "88:27"
     text: Considerações FInais, Planos para 2016 e _O que vamos fazer em férias!_
+episode: 24
 ---
 
 Nesse  último podcast de 2015, os vilões de sempre Fábio,  Paulo e Rafael, encerram a Preparação de Campanha, comentando sobre número e tipos de Aspectos, Perícias, Façanhas Livres, Recarga, Extras, Estresse, Consequências, e o porquê você deve dar espaço aos jogadores.

@@ -143,6 +143,7 @@ soundtrack:
   - music: Bouken Desho Desho (Abertura de A Melancolia de Haruhi Suzumiya) - TV Edit
     artist: Aya Hirano 
     link: https://www.youtube.com/watch?v=lVYV-5TeYfg
+episode: 36
 ---
 
 E esse é um Fate Masters especial, onde começamos um novo quadro do Fate Masters, o _Fate Masters Analisa_. 

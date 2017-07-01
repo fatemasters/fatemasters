@@ -21,11 +21,12 @@ xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
 <itunes:summary>{{ site.data.podcast.itunes.slogan | site.description }}</itunes:summary>
 <itunes:subtitle>{{ site.data.podcast.itunes.subtitle | site.description }}</itunes:subtitle>
 <itunes:image href="{{site.url}}{{ site.data.podcast.itunes.podcast_image }}"/>
+<itunes:type>{% if site.data.podcast.itunes.type %}{{ site.data.podcast.itunes.type }}{% else %}episodic{% endif %}</itunes:type>
 <itunes:author>{{ site.data.podcast.itunes.author | site.name }}</itunes:author>
 <copyright>{{ site.data.podcast.copyright }}</copyright>
 <language>{{ site.data.podcast.language }}</language>
 <itunes:owner>
-        <itunes:name>{{ site.data.podcast.itunes.name | site.data.podcast.name | site.name }}</itunes:name>
+        <itunes:name>{{ site.data.podcast.itunes.name | site.data.podcast.author | site.data.podcast.name | site.name }}</itunes:name>
         <itunes:email>{{ site.data.podcast.itunes.email }}</itunes:email>
 </itunes:owner>
 <image>
@@ -39,6 +40,10 @@ xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
 			<item>
 <author>{{ site.data.podcast.itunes.author | site.name }}</author>
 				<title>{{ post.title | xml_escape }}</title>                                
+				<itunes:title>{{ post.title | xml_escape }}</title>
+                {% if post.season %}<itunes:season>{{ post.season }}</itunes:season>{% endif %}
+                {% if post.episode %}<itunes:episode>{{ post.episode }}</itunes:episode>{% endif %}
+                {% if post.episodeType %}<itunes:episodeType>{{ post.episodeType }}</itunes:episodeType>{% endif %}
 				<description>{{ post.content | xml_escape }}
                   {{ shownotes | xml_escape }}
                   {% for audio in post.audios %}

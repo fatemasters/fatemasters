@@ -98,6 +98,7 @@ events:
     text: Dicas de materiais RPG e _nérdicos_ feitos por mulheres
   - time: "44:50"
     text: Considerações, recados e agradecimentos finais
+episode: 17
 ---
 
 Nesse Fate Masters Apresenta bem diferente o Mr. Mickey Fábio Costa conversa com _Eva Morrisey_, das Minas de Moria, sobre o que vai rolar no 9º Encontro de RPG no CCJ, sobre como as Minas de Moria se organizaram, sobre feminismo, RPG na periferia das cidades, como conseguir apoio de prefeituras, e muitos outros assuntos. E fica a dica dos Fate Masters (e da nossa Fate Mistress _Eva_): vá no evento, que vai ser muito divertido, vai ter todo tipo de RPG, eventos de madrugada, _Live-Action, Swordplay_, Boardgames e Cardgames e claro, vai ter Fate Masters!
