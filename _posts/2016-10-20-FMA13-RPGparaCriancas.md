@@ -131,7 +131,7 @@ related_links:
     link: http://www.drivethrurpg.com/product/139030/Save-Game--A-World-of-Adventure-for-Fate-Core
   - text: Jogo do _Destino dos Desenhos Animados_ com o Cicerone Luís Cavalheiro como Jogador
     link: https://www.youtube.com/watch?v=Boep76nSlAU
-episode: 39
+episode: 37
 ---
 
 Nesse episódio um tanto conturbado do _Fate Masters Apresenta_, vamos continuar a nossa _Operação Outubro_, falando sobre como trazer mais crianças para o _hobby_, e com isso convidamos alguém que teve uma experiência mutito interessante com [Fate, crianças e _Irmão do Jorel_][irmao-do-jorel]. Com isso, ao Velho Lich Rafael, ao Mr. Mickey Fábio e ao Cicerone Luiz, trazemos o revolucionário Jorge Valpaços, para falarmos de modo geral sobre como trazer crianças ao RPG. Afinal de contas, precisamos renovar o público: lascar apenas os marmanjos de sempre não rola.

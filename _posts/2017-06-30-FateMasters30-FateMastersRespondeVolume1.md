@@ -107,7 +107,7 @@ soundtrack:
   - music: Ambient Pills Update
     artist: Zeropage
     link: http://www.zeropage-media.com/index.php/free-music/ambient-pills-update
-episode: 49
+episode: 47
 ---
 
 Nesse Fate Masters ainda em baixo contingente, o Mr. Mickey Fábio, com o retorno do Cicerone do Fate Horror Luís Cavalheiro, responde as perguntas que vocês da comunidade fizeram no [Post do Facebook que o Velho Lich Rafael Meyer criou](https://www.facebook.com/groups/336649349791444?view=permalink&id=1210051149117922). Felizmente, as perguntas foram tantas que não conseguimos terminar com as perguntas respondidas. Então, continuem postando suas perguntas!

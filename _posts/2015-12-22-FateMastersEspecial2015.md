@@ -133,7 +133,7 @@ events:
     text: Mecânica de Rolamentos alternativas usadas antes de ter acesso aos Dados Fate
   - time: "118:33"
     text: Agradecimentos e Considerações Finais
-episode: 27
+episode: 25
 ---
 
 No Especial de Fim de Ano dos Fate Masters em 2015, o Mr. Mickey Fábio (devidamente a caráter) e o Velho Lich Rafael (detrás de sua bola de cristal), assim como o Bom e Justo Paulo tiraram dúvidas dos ouvintes durante a gravação ao vivo via Hangout e fizeram comentários gerais sobre Fate, RPG, X-Card, sistemas e cenários que gostariam ou teriam problema ao mestrar, entre muitas outras coisas. Esse arquivo é apenas um registro de tudo que foi dito e gravado...

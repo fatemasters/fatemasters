@@ -20,7 +20,7 @@ itunes:
   email: fatemasterspodcast@gmail.com
   # type - podcast Type : "episodic" or "serial" (default: episodic)
   type: episodic
-# Categories: 1 to 5 for the below categories (and only them - iTunes default)
+# Categories: 1 to 5 for the below categories (and only them - iTunes default) - if getting in the sublevel, use level/sublevel
 #     Arts
 #         Design
 #         Fashion & Beauty
@@ -89,7 +89,9 @@ itunes:
 #         Software How-To
 #         Tech News
   categories:
-      - RPG
-      - Fate
-      - Fate Core
-      - Fate Básico
+    - "Games & Hobbies/Other Games"
+    - "Education/Training"
+      # - RPG
+      # - Fate
+      # - Fate Core
+      # - Fate Básico

@@ -72,7 +72,7 @@ soundtrack:
   - music: Ambient Pills Update
     artist: Zeropage
     link: http://www.zeropage-media.com/index.php/free-music/ambient-pills-update
-episode: 47
+episode: 45
 ---
 
 E temos mais um Fate Masters Analisa. E dessa vez os Fate Masters  Rafael Meyer (o Velho Lich), Fábio Costa (o Mr. Mickey) e Luis Cavalheiro (o Cicerone do Fate Horror) tomam o caminho do Oriente, procurando sua sorte nas tortuosas, sujas, corruptas e violentas ruas da Cidade-Estado de Kausao, buscando lutar pela sua honra e pela justiça ao povo pobre oprimido pelas forças do Governador e do Conselho dos Noves, representantes dos maiores países do mundo, que transformaram Kausao em uma máquina de moer carne humana em busca das riquezas que o místico Jade proporciona em ___Jadepunk___!

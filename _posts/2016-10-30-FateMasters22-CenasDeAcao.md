@@ -77,7 +77,7 @@ soundtrack:
   - music: Ambient Pills Update
     artist: Zeropage
     link: http://www.zeropage-media.com/index.php/free-music/ambient-pills-update
-episode: 40
+episode: 38
 ---
 
 E a pedido do email do _Luiz Carlos de Souza Júnior_, os Fate Masters Luiz (o Cicerone), Rafael (o Velho Lich) e Fábio (o Mr. Mickey) trazem a pauta sobre as cenas de ação em Fate. E vamos falar sobre como dissecá-las em Fate, como a Narrativa é muito importante, e como nem sempre um conflito é um Conflito, e como muitas coisas em ação podem ser resolvidas com muita narrativa e poucos rolamentos.

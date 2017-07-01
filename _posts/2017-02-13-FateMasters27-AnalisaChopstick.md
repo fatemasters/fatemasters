@@ -110,7 +110,7 @@ soundtrack:
   - music: Ambient Pills Update
     artist: Zeropage
     link: http://www.zeropage-media.com/index.php/free-music/ambient-pills-update
-episode: 45
+episode: 43
 ---
 
 E temos mais um Fate Masters Analisa. No retorno das férias, os Fate Masters  Rafael Meyer (o Velho Lich), Fábio Costa (o Mr. Mickey) e Luis Cavalheiro (o Cicerone do Fate Horror) se embrenham em meio a violência, corrupção, _mahjong_ e _lamen_ de Chinatown e analisa mais um produto do [Deus do Milho, Igor Moreno][apoiase-igor], e um produto que já foi mencionado anteriormente: [Chopstick!][fma-chopstick], um produto de um nível altíssimo que chegou no nível de _Masters of Umdaar_

@@ -90,7 +90,7 @@ soundtrack:
   - music: Ambient Pills Update
     artist: Zeropage
     link: http://www.zeropage-media.com/index.php/free-music/ambient-pills-update
-episode: 32
+episode: 30
 ---
 
 Continuando nossa série de Façanhas, Extras e Fractal do Fate, vamos falar sobre Extras, os elementos que você irá descrever usando regras novas ou adaptação das regras do Fate. Falaremos sobre o que são, como criar, quando criar e como funcionam alguns Extras muito interessantes, como os _Talismãs_ de _Nest_ e mesmo coisas que já comentamos, como as _Façanhas Centuriãs_ de _Young Centurions_ e _Mega-Façanhas_ do _Atomic Robo_

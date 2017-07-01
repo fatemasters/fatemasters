@@ -63,7 +63,7 @@ soundtrack:
   - music: Ambient Pills Update
     artist: Zeropage
     link: http://www.zeropage-media.com/index.php/free-music/ambient-pills-update
-episode: 34
+episode: 32
 ---
 
 Nessa pauta do Fate Masters Apresenta, o _Velho Lich_ Rafael e o _Mr. Mickey_ Fábio trazem uma _Algoz Especialmente Convidada_, Domy Perretti da _Dungeon Geek_ para falar sobre um assunto que infelizmente acaba entrando em todas as mesas de RPG e grupos e que precisa ser realmente apresentado: machismo e a Cultura de Violência no mundo do RPG em especial, e no mundo nerd como um todo.

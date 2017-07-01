@@ -53,7 +53,7 @@ events:
     text: Sobre como lidar com o aumento do nível de poder da campanha
   - time: "66:18"
     text: Considerações finais, avisos e dicas finais
-episode: 28
+episode: 26
 ---
 
 No retorno do recesso de fim de ano, os Fate Masters falam sobre um tema que muitas vezes é confuso para quem vem de outros RPGs: a Evolução em Fate, incluindo os Marcos, como os distribuir, como aproveitar a _"involução"_ das perícias do personagem e como ajustar níveis de poder.
