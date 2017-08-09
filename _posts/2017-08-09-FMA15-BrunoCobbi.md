@@ -2,7 +2,7 @@
 title: Fate Masters Apresenta 15 - Eventos e Convenções (com Bruno Cobbi - Roleplayers)
 teaser: O Podcast dos Algozes dos Jogadores
 layout: post
-date: 2017-08-09 08:30:00 -0300
+date: 2017-08-09 11:00:00 -0300
 categories:
   - Podcast
 tags:
