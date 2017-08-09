@@ -66,6 +66,12 @@ related_links:
     link: https://twitter.com/vairoleplayers
   - text: Roleplayers (Facebook)
     link: http://facebook.com.br/vairoleplayers
+  - text: Roleplayers (Instagram)
+    link: http://instagram.com/vairoleplayers
+  - text: Roleplayers (Google+)
+    link: http://plus.google.com/+Roleplayers
+  - text: Roleplayers (YouTune)
+    link: http://facebook.com.br/vairoleplayers
   - text: Roleplayers (Twitch)
     link: http://twitch.tv/roleplayers
   - text: "#vemjogarrpg no Tendal da Lapa"
