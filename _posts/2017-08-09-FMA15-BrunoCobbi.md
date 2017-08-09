@@ -79,7 +79,7 @@ related_links:
   - text: Diversão Offline 
     link: http://diversaooffline.com.br
   - text: Vídeo do Cobbi no canal do AzeCos
-    link: https://www.youtube.com/watch?v=10iu0s-9ieg
+    link: https://www.youtube.com/watch?v=Slf7eS0oUuI
   - text: AzeCos
     link: https://www.youtube.com/channel/UCQe5_872pzm_ZTOgebq1qpw
   - text: Grunthar
