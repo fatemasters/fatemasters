@@ -135,7 +135,7 @@ Abaixo segue nossa atualização do Rank dos Fate Masters Analisa
 |  **1**       | [Masters of Umdaar][fm-mou]                        |    5           |       4,5      |     5        |   4.83    |
 |              | [Chopstick][fm-chopstick]                          |    5           |       4,75     |     4,75     |   4.83    |
 |  **3**       | [Templo Perdido de Thur-Amon][fm-thuramon]         |    4,6         |       4,75     |     4,75     |   4,68    |
-|  **4**       | [Jadepunk][fm-jadepunk]                            |    4,8         |       4,75     |     4,5      |   4,68    |
+|              | [Jadepunk][fm-jadepunk]                            |    4,8         |       4,75     |     4,5      |   4,68    |
 |  **5**       | [Bukatsu][fm-bukatsu]                              |    4,75        |       4,5      |     4,5      |   4,58    |
 |  **6**       | [Atomic Robo][fm-atomicrobo]                       |    4           |       4,5      |     ----     |   4,25    |
 |  **7**       | [Atomic Robo: Majestic 12][fm-atomicrobo]          |    3,5         |       3,5      |     ----     |   3,5     |
