@@ -58,7 +58,6 @@ related_links:
     link: http://johnwickpresents.com/product/play-dirty/
   - text: "Play Dirty 2: Even Dirtier (em inglês)"
     link: http://johnwickpresents.com/product/play-dirty-2/
-episode: 10
 ---
 
 Encerrando essa nossa  parte sobre Criação do Fate  Masters, os mesmos

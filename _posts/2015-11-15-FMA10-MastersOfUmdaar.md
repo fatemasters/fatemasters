@@ -56,7 +56,6 @@ events:
     text: Naya e Tu'an-Yao encontram o Verme Voraz!
   - time: "103:33"
     text: Sobre a conclusão da aventura (que foi perdida) e considerações finais
-episode: 20
 ---
 
 Vocês pediram,  nós atendemos! Mais um _Jogada de Mestre_, onde dessa vez Fifo conduz o Mr. Mickey (com o Monge Usato Tu'an-Yao) e Paulo, o Justo (como a Caçadora de Recompensas Humana Naya) enfrentam uma aventura de _dark fantasy_ usando as regras de _Masters of Umdaar_, carregando uma urna que contem grandes mistérios.

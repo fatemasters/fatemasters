@@ -59,7 +59,6 @@ related_links:
     link: "https://medium.com/fate-rpg/estilos-de-jogar-de-rpg-b1169e16d190?source=latest---------19"
   - text: Migrando para o Sistema Fate
     link: "https://medium.com/fate-rpg/migrando-para-o-sistema-fate-7a79e27c2f4d?source=latest---------22"
-episode: 16
 ---
 
 Nesse  podcast falamos  sobre como  migrar  a sua  campanha de  outros

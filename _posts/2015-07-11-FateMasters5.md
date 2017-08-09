@@ -33,7 +33,6 @@ audios:
  - OGG:  https://archive.org/download/FateMasters5AdaptandoCenrios/Fate%20Masters%20%235%20-%20Adaptando%20cen%c3%a1rios.ogg
  - MP3:  https://archive.org/download/FateMasters5AdaptandoCenrios/Fate%20Masters%20%235%20-%20Adaptando%20cen%c3%a1rios.mp3
 iaplayer: FateMasters5AdaptandoCenrios
-episode: 7
 ---
 
 Continuando a série  de Construção de Mundos, nesse  episódio de hoje,

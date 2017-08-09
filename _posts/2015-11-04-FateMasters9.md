@@ -67,7 +67,6 @@ events:
     text: Converter ambientação ao invés de sistema
   - time: "50:12"
     text: Considerações Finais
-episode: 19
 ---
 
 Nesse podcast, encerramos o assunto  de Migração de Sistemas, com mais

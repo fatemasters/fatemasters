@@ -104,7 +104,6 @@ events:
     text: Sobre um novo produto do Igor Moreno, _Proletarii_
   - time: "52:52"
     text: Considerações Finais
-episode: 28
 ---
 
 E temos um novo Fate Masters Apresenta!

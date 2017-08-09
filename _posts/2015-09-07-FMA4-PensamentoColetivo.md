@@ -81,7 +81,6 @@ events:
     text: Sobre o RPG _Champions_
   - time: "36:48" 
     text: Considerações Finais
-episode: 12
 ---
 
 Nesse Fate Masters Apresenta, apresentamos Felipe Cunha, da Pensamento Coletivo e conversamos sobre Jadepunk, o cenário que está vindo via pré-venda, e outras iniciativas da Jadepunk, em especial para Fate Básico

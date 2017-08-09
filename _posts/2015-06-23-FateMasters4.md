@@ -31,7 +31,6 @@ audios:
  - OGG:  https://archive.org/download/FateMasters4Psychedemia/Fate%20Masters%20%234%20-%20Psychedemia.ogg
  - MP3:  https://archive.org/download/FateMasters4Psychedemia/Fate%20Masters%20%234%20-%20Psychedemia.mp3
 iaplayer: FateMasters4Psychedemia
-episode: 5
 ---
 
 E estamos de volta!
