@@ -2,7 +2,7 @@
 title: "Fate Masters Episódio 32 - Fate Masters Analisa: Mecha vs Kaiju"
 teaser: O Podcast dos Algozes dos Jogadores
 layout: post
-date: 2017-09-04 09:30:00 -0300
+date: 2017-09-04 11:45:00 -0300
 categories:
   - Podcast
 tags:
@@ -145,8 +145,9 @@ events:
   - time: "00:52:41"
     text: Usando _Mecha vs Kaiju_ de outras maneiras
   - time: "00:57:55"
-    text: Sobre o sistema de criação de _Mecha_ e toda a parte de uso do _Fate Fractal_
-
+    text: Rankeando _Mecha vs Kaiju_
+  - time: "01:05:25"
+    text: Recados finais, incluindo os puxões de orelha que os Fate Masters receberam
 episode: 50
 ---
 
