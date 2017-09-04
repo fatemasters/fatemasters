@@ -87,8 +87,6 @@ related_links:
   link: https://en.wikipedia.org/wiki/The_Vision_of_Escaflowne
 - text: Gattai (Combinando Mechas)
   link: http://tvtropes.org/pmwiki/pmwiki.php/Main/CombiningMecha
-- text: Gattai (Combinando Mechas)
-  link: http://tvtropes.org/pmwiki/pmwiki.php/Main/CombiningMecha
 - text: GURPS Mecha
   link: http://www.sjgames.com/gurps/books/Mecha/
 - text: Mekton Zeta
@@ -102,7 +100,7 @@ related_links:
 - text: Kamen Rider
   link: https://en.wikipedia.org/wiki/Kamen_Rider_Series
 soundtrack:
-- music: Macross Opening (_Macross_)
+- music: Macross Opening 
   artist: Fujiwara Makoto
   link: https://www.youtube.com/watch?v=6RdcVauc-64
 - music: Ambient Pills
