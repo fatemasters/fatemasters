@@ -120,7 +120,7 @@ soundtrack:
     link: http://www.zeropage-media.com/index.php/free-music/ambient-pills-update
 ---
 
-__ATUALIZAÇÃO (2017-09-04):__ se você não ouviu esse _podcast_, aqui fazemos um _mea culpa_.
+__ATUALIZAÇÃO (2017-09-04):__ aqui fazemos um _mea culpa_ sobre esse episódio do _podcast_.
 
 Houve uma série de citações ao D&D (o famoso _Irmão Mais Velho_) e seus jogadores que realmente foram de muito mau-gosto. Na época, estávamos voltando de um hiato onde tivemos equipe reduzida e portanto estávamos, por assim dizer, sem rítmo e tarimba quanto ao podcast, o que levou a esse tipo de atitude de nossa parte.
 
@@ -133,6 +133,8 @@ ___Nota:___ Nome do autor do email editado por questões de privacidade _dele_
 Somos gratos pelo puxão de orelha, pois acreditamos que, acima do nosso lema _Quanto mais Fate melhor_, _Quanto mais RPG melhor_. 
 
 Pedimos encarecidamente desculpas sobre o que ocorreu, e saibam que os _Fate Masters_ tem sempre procurado melhorar cada vez mais em qualidade.
+
+Sempre lembrando que qualquer crítica adicional, o contato pode ser feito via email <fatemasterspodcast@gmail.com> e pela _hashtag_ #fatemasters na [Comunidade _Movimento Fate Brasil_ do Facebook](https://www.facebook.com/groups/faterpgbrasil/)
 
 _Fabio Costa, o Mister Mickey (editor)_
 
