@@ -21,7 +21,7 @@ hosts:
  - Rafael Sant'anna Meyer
 podcast_time: "67min"
 itunes:
-  duration: 01:46:32
+  duration: 01:07:49
 audios:
  - OGG: https://archive.org/download/FateMasters32AnalisaMechaVsKaiju/FateMasters32-AnalisaMechaVsKaiju.ogg
  - MP3: https://archive.org/download/FateMasters32AnalisaMechaVsKaiju/FateMasters32-AnalisaMechaVsKaiju.mp3
