@@ -24,7 +24,7 @@ itunes:
 audios:
  - OGG: https://archive.org/download/FateMasters36EstadoDoFate2017-MatheusFunfas/FateMasters36-EstadoDoFate2017-MatheusFunfas.ogg
  - MP3: https://archive.org/download/FateMasters36EstadoDoFate2017-MatheusFunfas/FateMasters36-EstadoDoFate2017-MatheusFunfas.mp3
-iaplayer: FateMasters36EstadoDoFate2017-MatheusFunfas
+iaplayer: FateMasters36EstadoDoFate2017MatheusFunfas
 youtube: IxrUmznk2D4
 soundtrack:
 - music: Ambient Pills
