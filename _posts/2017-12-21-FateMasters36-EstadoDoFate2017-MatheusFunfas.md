@@ -2,7 +2,7 @@
 title: "Fate Masters Episódio 36 - Estado do Fate 2017 (com Matheus Funfas - Solar Entretenimento)"
 teaser: O Podcast dos Algozes dos Jogadores
 layout: post
-date: 2017-12-21 10:50:00 -0200
+date: 2017-12-21 11:15:00 -0200
 categories:
   - Podcast
 tags:
@@ -22,8 +22,8 @@ podcast_time: "72min"
 itunes:
   duration: 01:22:46
 audios:
- - OGG: https://archive.org/download/FateMasters36EstadoDoFate2017-MatheusFunfas/FateMasters36-EstadoDoFate2017-MatheusFunfas.ogg
- - MP3: https://archive.org/download/FateMasters36EstadoDoFate2017-MatheusFunfas/FateMasters36-EstadoDoFate2017-MatheusFunfas.mp3
+ - OGG: https://archive.org/download/FateMasters36EstadoDoFate2017MatheusFunfas/FateMasters36-EstadoDoFate2017-MatheusFunfas.ogg
+ - MP3: https://archive.org/download/FateMasters36EstadoDoFate2017MatheusFunfas/FateMasters36-EstadoDoFate2017-MatheusFunfas.mp3
 iaplayer: FateMasters36EstadoDoFate2017MatheusFunfas
 youtube: IxrUmznk2D4
 soundtrack:
