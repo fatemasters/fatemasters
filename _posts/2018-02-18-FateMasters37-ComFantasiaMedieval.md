@@ -2,7 +2,7 @@
 title: "Fate Masters Episódio 37 - Fate Masters Com... Fantasia Medieval"
 teaser: O Podcast dos Algozes dos Jogadores
 layout: post
-date: 2018-02-18 11:00:00 -0300
+date: 2018-02-18 13:35:00 -0300
 categories:
   - Podcast
 tags:
@@ -150,6 +150,16 @@ events:
     text: Sobre como aumentar a letalidade no Fate 
   - time: "00:49:42"
     text: Como usar _Hexcrawl/Rogue-Like_ em Fate
+  - time: "00:55:04"
+    text: Idéias para regras de corrupção
+  - time: "00:59:24"
+    text: Dicas para Magia Ritualística
+  - time: "01:06:49"
+    text: Castas e o uso dos Recursos
+  - time: "01:12:12"
+    text: Exemplos rápidos de conceitos de Cenários para Fantasia Medieval em Fate
+  - time: "01:15:48"
+    text: Considerações Finais e nosso lembrete sobre o Dia Nacional do RPG
 episode: 55
 ---
 
@@ -159,4 +169,5 @@ Sim, é o assunto que todos esperavam: Fate Masters Com... Fantasia Medieval!
 
 O Velho Lich Rafael, o Cicero Luís e o Mr. Mickey Fábio  procuram dissecar o conceito da Fantasia Medieval, o que caracteriza a mesma, seus estilos, e como aplicar esses conceitos ao Fate, incluindo raças fantásticas, corrupção, recursos, e falamos sobre magia... Ou não!
 
-E lembrem-se que vem aí, dia 24/02/2018, o [Dia Nacional do RPG](https://www.facebook.com/events/1814575728574907/), para lembrarmos por que jogamos RPG e comemorar esse Hooby tão fantástico!
+E lembrem-se que vem aí, dia 24/02/2018, o [Dia Nacional do RPG](https://www.facebook.com/events/1814575728574907/), para lembrarmos por que jogamos RPG e comemorar esse Hobby tão fantástico! E vai ter Fate Masters nesses eventos. E lembrem-se que #quantomaisfatemelhor e que #quantomaisrpgmelhor. Procurem seus amigos, seja presenciais ou online, e joguem, conversem, assistam, curtam, lembrem o que é o RPG no fim das contas!
+
