@@ -118,7 +118,6 @@ soundtrack:
   - music: Ambient Pills Update
     artist: Zeropage
     link: http://www.zeropage-media.com/index.php/free-music/ambient-pills-update
-episode: 36
 ---
 
 Vocês pediram! Vocês imploraram! E os Fate Masters atenderam!

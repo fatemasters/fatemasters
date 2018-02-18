@@ -145,7 +145,6 @@ soundtrack:
   - music: Ambient Pills Update
     artist: Zeropage
     link: http://www.zeropage-media.com/index.php/free-music/ambient-pills-update
-episode: 40
 ---
 
 E temos mais um Fate Masters. Um pouco menos _Fate_ e mais _Master_ nesse podcast.

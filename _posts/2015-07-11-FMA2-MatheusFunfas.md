@@ -71,7 +71,7 @@ events:
     text: Considerações Finais
   - time: "50:19"
     text: Encerramento
-episode: 6
+
 ---
 
 Começando mais uma  série dentro do Fate Masters, em  especial no Fate

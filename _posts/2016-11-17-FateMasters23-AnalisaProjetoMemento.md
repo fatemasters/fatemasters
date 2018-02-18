@@ -91,7 +91,6 @@ soundtrack:
   - music: Ambient Pills Update
     artist: Zeropage
     link: http://www.zeropage-media.com/index.php/free-music/ambient-pills-update
-episode: 39
 ---
 
 E temos mais um Fate Masters. E dessa vez novamente com um produto nacional. 

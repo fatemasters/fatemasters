@@ -75,7 +75,6 @@ events:
     text: Os Próximos Passos
   - time: "44:10"
     text: Considerações Finais
-episode: 13
 ---
 
 Nesse Fate Masters Apresenta, um tanto atrasado na publicação (mais de 1 mês desde a gravação), Fábio Silva, o dono da Licença da publicação do Fate no Brasil, fala um pouco sobre o processo de licenciamento, o Conexão Fate, e outras coisas mais.

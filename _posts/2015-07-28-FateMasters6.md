@@ -55,7 +55,6 @@ events:
     text: Sobre a disponibilização do _La Vaporeta_ e sobre o próximo episódio
   - time: "48:16"
     text: Considerações Finais
-episode: 9
 ---
 
 Bem vindos a mais um  episódio de _Fate Masters_!  Hoje apresentaremos

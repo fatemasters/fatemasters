@@ -9,89 +9,14 @@ feeds:
        link: http://feeds.feedburner.com/FateMastersRPG-OGG
 itunes:
   link: https://itunes.apple.com/br/podcast/fate-masters/id1061476992
-  # explicit - Have explicit words - YES or NO
   explicit: "NO"
-  # keywords - Keywords for searching at iTunes
   keywords: "RPG, Fate, Fate Básico, Mestre, Narrador"
-  # podcast_image - to be used on your iTunes feed (3000x3000, JPG or PNG, < 1MB size)
   podcast_image: /images/FateMasters-itunes.jpg 
-  # author and email - Extra information
   author: "Fate Masters"
   email: fatemasterspodcast@gmail.com
-  # type - podcast Type : "episodic" or "serial" (default: episodic)
-  type: episodic
-# Categories: 1 to 5 for the below categories (and only them - iTunes default) - if getting in the sublevel, use level/sublevel
-#     Arts
-#         Design
-#         Fashion & Beauty
-#         Food
-#         Literature
-#         Performing Arts
-#         Visual Arts
-#     Business
-#         Business News
-#         Careers
-#         Investing
-#         Management & Marketing
-#         Shopping
-#     Comedy
-#     Education
-#         Educational Technology
-#         Higher Education
-#         K-12
-#         Language Courses
-#         Training
-#     Games & Hobbies
-#         Automotive
-#         Aviation
-#         Hobbies
-#         Other Games
-#         Video Games
-#     Government & Organizations
-#         Local
-#         National
-#         Non-Profit
-#         Regional –
-#     Health
-#         Alternative Health
-#         Fitness & Nutrition
-#         Self-Help
-#         Sexuality
-#         Kids & Family
-#     Music
-#     News & Politics
-#         Religion & Spirituality
-#             Buddhism
-#             Christianity
-#             Hinduism
-#             Islam
-#             Judaism
-#             Other
-#             Spirituality
-#     Science & Medicine
-#         Medicine
-#         Natural Sciences
-#         Social Sciences
-#     Society & Culture
-#         History
-#         Personal Journals
-#         Philosophy
-#         Places & Travel
-#     Sports & Recreation
-#         Amateur
-#         College & High School
-#         Outdoor
-#         Professional
-#         TV & Film
-#     Technology
-#         Gadgets
-#         Podcasting
-#         Software How-To
-#         Tech News
   categories:
-    - "Games & Hobbies/Other Games"
-    - "Education/Training"
-      # - RPG
-      # - Fate
-      # - Fate Core
-      # - Fate Básico
+      - RPG
+      - Fate
+      - Fate Core
+      - Fate Básico
+      
