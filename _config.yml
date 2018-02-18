@@ -10,9 +10,9 @@ permalink:        /:categories/:title/
 
 # Setup
 title:            Fate Masters
-tagline:          'O Podcast dos Algozes dos Jogadpres'
+tagline:          'O Podcast dos Algozes dos Jogadores'
 description:      'Esse é o podcast que vai ensinar você a roubar, trapacear, torturar seus jogadores e com isso criar um jogo memorável!'
-url:              http://fatemasters.github.io/
+url:              http://fatemasters.gitlab.io/
 baseurl:          /
 
 author:
