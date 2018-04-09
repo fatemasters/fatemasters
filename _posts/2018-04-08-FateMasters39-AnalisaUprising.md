@@ -2,7 +2,7 @@
 title: "Fate Masters Episódio 39 - Fate Masters Analisa: Uprising - The Dystopian Universe RPG"
 teaser: O Podcast dos Algozes dos Jogadores
 layout: post
-date: 2018-04-08 21:00:00 -0300
+date: 2018-04-08 21:20:00 -0300
 categories:
   - Podcast
 tags:
