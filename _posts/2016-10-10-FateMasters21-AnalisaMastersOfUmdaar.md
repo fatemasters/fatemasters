@@ -138,7 +138,6 @@ Sempre lembrando que qualquer crítica adicional, o contato pode ser feito via e
 
 _Fabio Costa, o Mister Mickey (editor)_
 
-
 ---
 
 Vocês pediram! Vocês imploraram! E os Fate Masters atenderam!
